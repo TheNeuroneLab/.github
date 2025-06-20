@@ -1,6 +1,4 @@
-## The Nest of Innovation
-[![The Neurone Group](https://img.youtube.com/vi/mUWuZjbnef0/0.jpg)](https://www.youtube.com/watch?v=mUWuZjbnef0)
-
+[![Watch the video](https://raw.githubusercontent.com/TheNeuroneLab/.github/main/thumbnail.png)](https://raw.githubusercontent.com/TheNeuroneLab/.github/main/demo.mp4)
 
 
 
