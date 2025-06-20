@@ -1,4 +1,6 @@
 ## Hi there 👋
 
-[![Watch the demo](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://github.com/TheNeuroneLab/.github/blob/main/demo.mp4)
+🎥 [Watch the demo video](https://github.com/TheNeuroneLab/.github/blob/main/demo.mp4)
+
+
 
